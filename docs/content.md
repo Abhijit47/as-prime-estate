@@ -162,4 +162,85 @@ Social Responsibility
 
 Trust & Long-Term Relationships
 
--
+---
+
+Our Trusted Projects
+
+Embassy Springs
+
+Shapoorji Pallonji ParkWest
+
+Bluejay Aston
+
+Puravankara Projects
+
+Godrej Properties
+
+And many more leading builders.
+
+---
+
+[7:27 pm, 30/6/2026] Shobhana R: place it in our project and these images
+[7:30 pm, 30/6/2026] Shobhana R: in gallery page you will place all images
+
+Here are six professional testimonial samples you can use on the AS Prime Estates website.
+
+Testimonial 1
+
+⭐⭐⭐⭐⭐
+
+"AS Prime Estates made our property-buying journey smooth and stress-free. Their team was professional, transparent, and guided us through every step. We found our dream property at the right price."
+
+— Rajesh Kumar, Bengaluru
+
+Testimonial 2
+
+⭐⭐⭐⭐⭐
+
+"The team at AS Prime Estates truly understands customer needs. Their honest advice and excellent market knowledge helped us make a confident investment. Highly recommended!"
+
+— Priya Sharma, Hyderabad
+
+Testimonial 3
+
+⭐⭐⭐⭐⭐
+
+"From property selection to documentation, everything was handled professionally. The entire process was transparent and hassle-free. Thank you, AS Prime Estates!"
+
+— Naveen Reddy, Chennai
+
+Testimonial 4
+
+⭐⭐⭐⭐⭐
+
+"I was looking for a reliable real estate partner, and AS Prime Estates exceeded my expectations. Their commitment, quick responses, and customer-first approach made all the difference."
+
+— Anitha Rao, Mysuru
+
+Testimonial 5
+
+⭐⭐⭐⭐⭐
+
+"Excellent service and genuine guidance! The team helped us choose the perfect investment property with great future potential. I would definitely recommend AS Prime Estates."
+
+— Suresh Patel, Bengaluru
+
+Testimonial 6
+
+⭐⭐⭐⭐⭐
+
+"Professional, trustworthy, and highly experienced. AS Prime Estates made our first home purchase simple and enjoyable. We appreciate their dedication and support throughout the process."
+
+— Deepika & Arun, Bengaluru
+
+Section Heading
+
+What Our Clients Say
+
+Subtitle
+
+Building trust through exceptional service, transparent dealings, and successful property investments.
+
+---
+
+asprimeestates@gmail.com
