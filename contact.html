@@ -208,27 +208,39 @@
             </div>
             <div class="col-lg-8">
               <form
-                action="#"
+                action="https://api.web3forms.com/submit"
+                method="POST"
                 class="contact-form wow fadeInUp animated"
                 data-animation="fadeInDown animated"
                 data-delay=".2s">
+                <input
+                  type="hidden"
+                  name="access_key"
+                  value="4288ab9c-457a-4378-aa71-be6a9d8efaf5" />
                 <div class="row">
                   <div class="col-lg-12">
                     <div class="contact-field p-relative c-name mb-40">
                       <input
                         type="text"
+                        name="name"
+                        required
                         placeholder="Write here  Jhonathan Doe" />
                     </div>
                   </div>
                   <div class="col-lg-12">
                     <div class="contact-field p-relative c-email mb-40">
-                      <input type="text" placeholder="Write here youremail" />
+                      <input
+                        type="email"
+                        name="email"
+                        required
+                        placeholder="Write here youremail" />
                     </div>
                   </div>
                   <div class="col-lg-12">
                     <div class="contact-field p-relative c-subject mb-40">
                       <input
                         type="text"
+                        name="subject"
                         placeholder="I would like to discuss" />
                     </div>
                   </div>
