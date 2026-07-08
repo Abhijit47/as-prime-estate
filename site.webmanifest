@@ -1,0 +1,37 @@
+{
+  "name": "AS Prime Estate",
+  "short_name": "AS Prime Estate",
+  "description": "Application description",
+  "start_url": "https://www.asprimeestates.in",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/img/favicons/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/img/blog-logo.jpeg",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/img/blog-logo.jpeg",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": [
+    "business",
+    "finance",
+    "real-estate"
+  ],
+  "lang": "en",
+  "dir": "ltr"
+}
