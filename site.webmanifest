@@ -1,7 +1,7 @@
 {
   "name": "AS Prime Estate",
   "short_name": "AS Prime Estate",
-  "description": "Application description",
+  "description": "AS Prime Estates helps you find your dream home in Bengaluru. Explore premium apartments, villas & gated communities with expert real estate guidance.",
   "start_url": "https://www.asprimeestates.in",
   "display": "standalone",
   "background_color": "#ffffff",
